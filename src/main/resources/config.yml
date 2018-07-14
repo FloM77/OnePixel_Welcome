@@ -1,0 +1,19 @@
+# Chat colors
+# &0 = ChatColor.BLACK
+# &1 = ChatColor.DARK_BLUE
+# &2 = ChatColor.DARK_GREEN
+# &3 = ChatColor.DARK_AQUA
+# &4 = ChatColor.DARK_RED
+# &5 = ChatColor.DARK_PURPLE
+# &6 = ChatColor.GOLD
+# &7 = ChatColor.GRAY
+# &8 = ChatColor.DARK_GRAY
+# &9 = ChatColor.BLUE
+# &a = ChatColor.GREEN
+# &b = ChatColor.AQUA
+# &c = ChatColor.RED
+# &d = ChatColor.LIGHT_PURPLE
+# &e = ChatColor.YELLOW
+# &f = ChatColor.WHITE
+# &g = ChatColor.MAGIC
+message: "&cWelcome to the server"
