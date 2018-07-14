@@ -16,4 +16,5 @@
 # &e = ChatColor.YELLOW
 # &f = ChatColor.WHITE
 # &g = ChatColor.MAGIC
-message: "&cWelcome to the server"
+publicmessage: "&c%s &7connected!"
+message: "&6Welcome to Onepixel \nHave a nice stay!"
